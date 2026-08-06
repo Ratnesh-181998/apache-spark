@@ -57,3 +57,9 @@ Apache Spark is a unified, open-source distributed computing engine designed for
 
 
 ---
+
+# Spark Performance Optimization Checklist
+
+<img width="817" height="1213" alt="image" src="https://github.com/user-attachments/assets/13aaedde-7937-4717-a4f6-d5ac688b0f80" />
+
+---
