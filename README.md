@@ -66,4 +66,12 @@ Apache Spark is a unified, open-source distributed computing engine designed for
 
 ---
 
+# 𝐓𝐨𝐩 𝟓𝟎 𝐒𝐩𝐚𝐫𝐤 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧𝐬 𝐂𝐡𝐞𝐚𝐭 𝐒𝐡𝐞𝐞𝐭
+
+<img width="1090" height="856" alt="image" src="https://github.com/user-attachments/assets/3a36cb0e-3164-4566-af74-5939481afa5a" />
+
+<img width="744" height="1126" alt="image" src="https://github.com/user-attachments/assets/4df0637e-a201-46c5-b3be-177408094a20" />
+
+
+---
 
