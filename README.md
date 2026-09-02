@@ -75,3 +75,12 @@ Apache Spark is a unified, open-source distributed computing engine designed for
 
 ---
 
+# 𝟓𝟎 𝐒𝐩𝐚𝐫𝐤 𝐄𝐫𝐫𝐨𝐫𝐬 𝐄𝐯𝐞𝐫𝐲 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 𝐒𝐡𝐨𝐮𝐥𝐝 𝐊𝐧𝐨𝐰
+
+<img width="818" height="990" alt="image" src="https://github.com/user-attachments/assets/ea0aca44-d65a-4199-84d6-ac43257bf2c3" />
+
+<img width="698" height="1034" alt="image" src="https://github.com/user-attachments/assets/e2599ccd-3e7c-4dc5-a32a-2c027a129e36" />
+
+---
+
+
